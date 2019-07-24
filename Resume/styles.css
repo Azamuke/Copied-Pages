@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 18px;
+}
+div{
+    display: flex;
+    align-items: stretch;
+}
+button:hover{
+    opacity: 0.8;
+}
